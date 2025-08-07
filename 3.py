@@ -2,4 +2,4 @@
 for a in range(7):
     if a == 3 or a == 6:
         continue
-    print(a, end=' ')
+    print(a)
